@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\c sharp\Odd\Odd\bin\Debug\Odd.exe.config
+C:\Users\User\Desktop\c sharp\Odd\Odd\bin\Debug\Odd.exe
+C:\Users\User\Desktop\c sharp\Odd\Odd\bin\Debug\Odd.pdb
+C:\Users\User\Desktop\c sharp\Odd\Odd\obj\Debug\Odd.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c sharp\Odd\Odd\obj\Debug\Odd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c sharp\Odd\Odd\obj\Debug\Odd.exe
+C:\Users\User\Desktop\c sharp\Odd\Odd\obj\Debug\Odd.pdb
